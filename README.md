@@ -1,20 +1,12 @@
 <h1 align="center">Aya's Domain Expansion</h1>
 
-###
-
 <h3 align="center">About me</h3>
 
-###
-
-<h4 align="center">📚 I'm currently learning Front-End Development<br>🎯 I aim to become a Full-Stack Developer<br>🎲 Hobbies: I listen, game, and code.</h4>
-
-###
+<h4 align="center">📚 I'm currently learning Front-End Development<br>🎯 I aim to become a Full-Stack Developer<br>🎲 I listen, game, and code.</h4>
 
 <br clear="both">
 
 <h3 align="center">Tools</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
@@ -32,22 +24,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
 </div>
 
-###
-
 <h3 align="center">Socials</h3>
 
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="50" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="50" alt="instagram logo"  />
 </div>
 
-###
 
 <h3 align="center">Status</h3>
 
-###
 
 <br clear="both">
 
@@ -56,11 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AyaCoders&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Github%20Status" height="150" alt="stats graph"  />
 </div>
 
-###
-
 <h3 align="center">Visitors Count</h3>
-
-###
 
 <br clear="both">
 
@@ -68,12 +51,8 @@
   <img src="https://profile-counter.glitch.me/AyaCoders/count.svg?"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/zE_QhKfcnwgAAAAC/ruka-sarashina-bleh.gif"  />
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/253713388288879416/0D15117E09332AD3BE89FBCD6CE9CFF3ACBAD6C6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
-
-###
