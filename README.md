@@ -2,6 +2,10 @@
 
 ###
 
+<blockquote style="border: 0;">
+  <p align="center">“You don’t understand anything until you learn it more than one way.” <br/> — Marvin Minsky</p>
+</blockquote>
+
 <br/>
 <h3 align="center">About me</h3>
 
