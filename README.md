@@ -1,15 +1,13 @@
-<h1 align="center">Aya's Domain Expansion</h1>
+<h1 align="center">Aya's Ryoiki Tenkai</h1>
 
 ###
 
 <blockquote style="border: 0;">
-  <p align="center">“You don’t understand anything until you learn it more than one way.” <br/> — Marvin Minsky</p>
+  <p align="center">“You don’t understand anything until you learn it more than one way.” <br/> Marvin Minsky</p>
 </blockquote>
 
 <br/>
 <h3 align="center">About me</h3>
-
-###
 
 <h4 align="center">📚 I'm currently learning Front-End Development<br>🎯 I aim to become a Full-Stack Developer<br>🎲 I listen, game, and code.</h4>
 
