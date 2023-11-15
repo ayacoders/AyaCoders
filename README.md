@@ -59,16 +59,6 @@
 
 ###
 <br/>
-<h3 align="center">Visitors Count</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AyaCoders/count.svg?"  />
-</div>
-
-###
-<br/>
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/253713388288879416/0D15117E09332AD3BE89FBCD6CE9CFF3ACBAD6C6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
