@@ -51,13 +51,6 @@
 <h3 align="center">Status</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AyaCoders&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaCoders&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Github%20Status" height="150" alt="stats graph"  />
-</div>
-
-###
 <br/>
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/253713388288879416/0D15117E09332AD3BE89FBCD6CE9CFF3ACBAD6C6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
