@@ -3,57 +3,66 @@
 ###
 
 <blockquote style="border: 0;">
-  <p align="center">“You don’t understand anything until you learn it more than one way.” <br/> Marvin Minsky</p>
+  <p align="center">"𝘌𝘷𝘦𝘯 𝘐, 𝘵𝘩𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘧𝘪𝘯𝘥 𝘮𝘺𝘴𝘦𝘭𝘧 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘦𝘭𝘺 𝘣𝘢𝘧𝘧𝘭𝘦𝘥 𝘣𝘺 𝘪𝘵𝘴 𝘭𝘰𝘨𝘪𝘤 𝘢𝘯𝘥 𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦."<br/> - 𝘈𝘺𝘢</p>
 </blockquote>
 
-<br/>
+<div align="center">
+  <img height="200" src="https://media.tenor.com/QCEvxe_I-J4AAAAM/river-anime.gif"  />
+</div>
+
+###
+
 <h3 align="center">About me</h3>
 
-<h4 align="center">📚 I'm currently learning Front-End Development<br>🎯 I aim to become a Full-Stack Developer<br>🎲 I listen, game, and code.</h4>
-
 ###
-<br/>
-<h3 align="center">Tools</h3>
+
+<p align="center">📚 I'm currently learning Front-End Development<br>🎯 I aim to become a Full-Stack Developer<br>🎲 I listen, game, and code.</p>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-</div>
-
-###
-<br/>
-<h3 align="center">Socials</h3>
+<h4 align="center">Technologies</h4>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="50" alt="instagram logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
-<br/>
-<h3 align="center">Status</h3>
+
+<h4 align="center">Socials</h4>
 
 ###
-<br/>
+
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/253713388288879416/0D15117E09332AD3BE89FBCD6CE9CFF3ACBAD6C6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.instagram.com/_ayaya25/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.facebook.com/ethanpatrick25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo" />
+  </a>
 </div>
+
 
 ###
